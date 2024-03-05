@@ -53,11 +53,14 @@ To run your newly created Docker image as a container, execute:
 
 This command runs the application inside a Docker container and makes it accessible on http://localhost:8080.
 
-## No Additional Configuration Required
+## Dev environment
 
-The application is designed to run out-of-the-box with no additional configuration required. All necessary configurations are included within the application's source code and Dockerfile.
+http://github-w-alb-acdjdlgq3hyg-1475071239.us-east-1.elb.amazonaws.com/api/v1/users/korishggg/repositories
 
-## Jenkins
+## Infrastructure
 
-URL: [jenkins link](http://34.226.199.168:8080/)
+All Infrastructure description located here [README.md](aws%2FREADME.md)
+
+
+
 
