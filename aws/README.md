@@ -26,3 +26,4 @@ Before you begin, ensure you have the following prerequisites:
 To delete the infrastructure and avoid incurring future charges, use the following command:
 
 `aws cloudformation delete-stack --stack-name MySpringBootAppInfrastructure`
+
