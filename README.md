@@ -56,3 +56,8 @@ This command runs the application inside a Docker container and makes it accessi
 ## No Additional Configuration Required
 
 The application is designed to run out-of-the-box with no additional configuration required. All necessary configurations are included within the application's source code and Dockerfile.
+
+## Jenkins
+
+URL: [jenkins link](http://34.226.199.168:8080/)
+
