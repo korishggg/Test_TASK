@@ -1,0 +1,6 @@
+logging:
+  level:
+    web: trace
+springdoc:
+  api-docs:
+    path: /api-docs
